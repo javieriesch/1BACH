@@ -3,7 +3,7 @@ Según se desarrollen los acontecimientos, se evaluará o no mediante examen. De
 ## Disertación
 Los que aún no hayan hecho una presentación a lo largo del curso, pueden enviar una disertación acerca de uno de los textos pendientes de la segunda evaluación, o de los que subiré próximamente, correspondientes a la tercera evaluación
 ## Trabajo voluntario
-Es una posibilidad que ha estado abierta durante todo el curso y especialmente recomendable para quien esté rozando el aprobado
+Es una posibilidad que ha estado abierta durante todo el curso y especialmente recomendable para quien esté rozando el aprobado. Podéis sugerirme un tema a través del [correo](mailto:jsantacruz@iescabodelahuerta.com). Algunas lecturas que ya me habéis pedido, y las que vayais sugiriendo, las voy subiendo a [ñeste repositorio](https://github.com/javieriesch/libros)
 ## Evaluación final
 De momento se mantiene el formato de examen, si se reanudaran las clases. En caso contrario se avisaría del cambio en este mismo apartado del blog
 # Materiales de clase
