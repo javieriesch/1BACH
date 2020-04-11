@@ -2,7 +2,7 @@
 Según se desarrollen los acontecimientos, se evaluará o no mediante examen. De momento, se puede ir trabajando en:
 
 ## Ejercicios tipo test (obligatorio) 
-Cada semana iré poniendo un test sobre el [material subido](https://github.com/javieriesch/1BACH). Para poder hacerlo *necesito que me mandéis desde vuestro correo del instituto la contraseña que queréis para vuestro usuario a mi correo [jsantacruz@iescabodelahuerta.com](mailto:jsantacruz@iescabodelahuerta.com)*. Cuando suba un nuevo test, os llegará un aviso al correo.
+Cada semana iré poniendo un test sobre el [material subido](https://github.com/javieriesch/1BACH). Para poder hacerlo *necesito que me mandéis desde vuestro correo del instituto la contraseña que queréis para vuestro usuario a mi correo [javier_santacruz@iescabodelahuerta.com](mailto:javier_santacruz@iescabodelahuerta.com)*. Cuando suba un nuevo test, os llegará un aviso al correo.
 
 ## Trabajo (voluntario)
 Es una posibilidad que ha estado abierta durante todo el curso y especialmente recomendable para quien esté rozando el aprobado. Podéis sugerirme un tema a través del [correo](mailto:jsantacruz@iescabodelahuerta.com). Algunas lecturas que ya me habéis pedido, y las que vayáis sugiriendo, las voy subiendo a [este repositorio](https://github.com/javieriesch/libros)
@@ -18,4 +18,4 @@ Iré subiendo aquí los materiales correspondientes a medida que vayamos avanzan
 ## [Anuncios](https://javieriesch.github.io/)
 Anuncios oficiales, acerca de las clases, su ausencia y su regreso, etc.
 ## Contacto: 
-[jsantacruz@iescabodelahuerta.com](mailto:jsantacruz@iescabodelahuerta.com)
+[javier_santacruz@iescabodelahuerta.com](mailto:javier_santacruz@iescabodelahuerta.com)
